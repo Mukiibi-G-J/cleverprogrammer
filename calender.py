@@ -1,5 +1,4 @@
 import calendar
-from typing_extensions import TypeAlias   
 import daytime
 import time
 print(calendar.weekheader(3))
