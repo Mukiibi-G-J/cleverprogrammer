@@ -32,3 +32,23 @@ print(how_many_leap_days)
     # strings
 # Casting
     # float(1)
+
+# data type
+    # list
+        # methods on list
+            # append
+            # insert(1>index,'name')
+            # remove
+            # reverse
+            # sort
+            # slicing
+              # print(_diigits[4:5])
+            #striding
+digits= [0,1,2,3,4,5,6,7,9]
+# print(digits[::])
+#striding
+print(digits[0:7:2])
+
+
+                    
+  
